@@ -5,20 +5,20 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2015-11-12T09:25:59.704Z'
-dateModified: '2015-11-12T09:20:56.576Z'
-title: 'Words of the day!'
+description: 'click here!'
+datePublished: '2015-11-12T09:35:42.249Z'
+dateModified: '2015-11-12T09:30:57.837Z'
+title: 'Want to know what this is? '
+sourcePath: _posts/2015-11-12-words-of-the-day.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-12-words-of-the-day.md
-published: true
 url: words-of-the-day/index.html
 _type: Article
 
 ---
-I love you baby!
+guess first...
