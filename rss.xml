@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[chencoey]]></title>
         <description><![CDATA[chencoey]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/chencoey/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 Nov 2015 09:26:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 12 Nov 2015 09:35:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/chencoey/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Words of the day!]]></title>
-            <description><![CDATA[<article><h1>Words of the day!</h1><p>I love you baby! </p></article>]]></description>
-            <link>undefinedwords-of-the-day/index.html</link>
+            <title><![CDATA[Want to know what this is? ]]></title>
+            <description><![CDATA[<article><h1>Want to know what this is? </h1><p>guess first...</p></article>]]></description>
+            <link>https://thegrid.ai/chencoey/words-of-the-day/index.html</link>
             <guid isPermaLink="false">18535f72-8faa-4864-807f-d2ff4063d47e</guid>
-            <pubDate>Thu, 12 Nov 2015 09:25:59 GMT</pubDate>
+            <pubDate>Thu, 12 Nov 2015 09:35:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
